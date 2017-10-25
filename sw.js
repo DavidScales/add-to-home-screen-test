@@ -1,6 +1,5 @@
 const cacheName = 'a2hs-test';
 const resourcesToCache = [
-  '/',
   'index.html',
   'manifest.json',
   'icons/icon-512.png',
